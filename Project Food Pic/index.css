@@ -1,0 +1,12 @@
+body {
+    display: block;
+    background-color: aquamarine;
+}
+
+.body_container {
+    border: solid 2px red;
+    width: 100%; /* Makes the container fill the screen width */
+    max-width: 1000px; /* Maximum width of the container */
+    margin: 0 auto; /* Centers the container */
+    min-height: 2000px;
+}
